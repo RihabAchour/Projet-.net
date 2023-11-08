@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SqueletteTest",
+    "\\SqueletteTest\\AM.ApplicationCore",
+    "\\SqueletteTest\\AM.ApplicationCore\\Domain",
+    "\\SqueletteTest\\AM.Infrastructure",
+    "\\SqueletteTest\\AM.Infrastructure\\Migrations"
+  ],
+  "SelectedNode": "\\SqueletteTest\\AM.Infrastructure\\Migrations\\20231108174404_TestManagement.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
